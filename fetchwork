@@ -1,0 +1,4 @@
+testing pull and fetch
+pull=fetch+merge
+fetch-> will able add remote files into tempoaray files but will not add directly to our folder.So we need to merge
+pull-> directly commited or new files will be added
